@@ -1,10 +1,10 @@
 # <h1 align="center" > Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Zeeta Frontend Developer</h1>
 <h3 align="center">This is my GitHub Profile. Welcome and hopefully inspiring for all of you. Don't forget to Follow Zeeta Github Account. Thank you</h3>
 
-<div align="center" style="display: flex;">
-    <img src="../assets/img/avatar.png" width="300px" alt="">
-    <img src="../assets/img/avatarSilence.png" width="300px" alt="">
-    <img src="../assets/img/avatarStarEye.png" width="300px" alt="">
+ <div align="center" style="display: flex;">
+    <img src="./avatar.png" width="300px" alt="">
+    <img src="./avatarSilence.png" width="300px" alt="">
+    <img src="./avatarStarEye.png" width="300px" alt="">
   </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>

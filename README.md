@@ -94,7 +94,7 @@
 <h1 align="center">
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px"> Languages and Tools  </h1>
 
-<br/>
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="60" height="60"/>

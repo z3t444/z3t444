@@ -93,6 +93,11 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=z3t444&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=z3t444&radius=15&theme=react&area=true&order=5&hide_border=true" height="200" alt="activity-graph graph"  />
+</div>
+
+###
 
 ###
 

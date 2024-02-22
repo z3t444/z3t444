@@ -25,7 +25,6 @@
 <h3 align="center"> Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Zeeta, YouTube Creator and Frontend Developer.</h3>
 <p align="center">
   <br>
-  <br>
   🏫 I went to SMK Muhammadyah Yogyakarta
   <br>
   🏆️ I have experienced participating in the olympicad program organized by Muhammadyah. 🏆️

@@ -20,8 +20,6 @@
 </div>
 
 
-<br>
-
 <h3 align="center"> Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Zeeta, YouTube Creator and Frontend Developer.</h3>
 <p align="center">
   <br>

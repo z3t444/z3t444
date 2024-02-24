@@ -2,6 +2,12 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=z3t444.z3t444">
 </div>
 
+<p align="center">
+  <img width="250" src="[https://avatars.githubusercontent.com/u/87259393?v=4](https://www.instagram.com/p/C3tsbL1Sn1s/?img_index=1)" />  
+  <h2 align="center"> My Github Profile </h2>
+  <p align="center">🏆 Achievements In Writing program Code 🏆</p>
+</p>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Zeeta+FrontDev..;Nice+to+meet+you!&center=true&size=30">

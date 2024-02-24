@@ -85,7 +85,7 @@
 <br>
 <div align="center">
  <img width="35%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=z3t444&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=20232a"/>
-    <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzz3t444&theme=react&show_icons=true&hide_border=true&layout=compact"/>
+    <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3t444&theme=react&show_icons=true&hide_border=true&layout=compact"/>
   <img src="https://streak-stats.demolab.com?user=z3t444&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&border=3" height="116" alt="streak graph"  />
 </div>
 <div align="center">

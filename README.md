@@ -2,11 +2,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=z3t444.z3t444">
 </div>
 
-<br>
 
-<p align="center">
-  <img width="250" src="./images/IMG20240224083526_polarr_1.jpg" />  
-</p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">

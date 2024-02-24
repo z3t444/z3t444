@@ -3,9 +3,7 @@
 </div>
 
 <p align="center">
-  <img width="250" src="https://www.instagram.com/p/C3tsbL1Sn1s/?img_index=1" />  
-  <h2 align="center"> My Github Profile </h2>
-  <p align="center">🏆 Achievements In Writing program Code 🏆</p>
+  <img width="250" src="" />  
 </p>
 
 <h1 align="center">

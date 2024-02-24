@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=z3t444.z3t444">
+  <p align=left> <img src=https://komarev.com/ghpvc/?username=z3t444 alt=z3t444 /> </p>
 </div>
 
 

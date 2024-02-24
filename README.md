@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img width="250" src="" />  
+  <img width="250" src="./images/IMG20240224083526_polarr_1.jpg" />  
 </p>
 
 <h1 align="center">

@@ -73,15 +73,6 @@
 
 <hr>
 
-
-<h2 align="center">YouTube Channel and TikTok Channel <img title="JSON" height="35" src="https://media0.giphy.com/media/uXZOSmv0glEDpG26VC/giphy.gif"> </h2>
-<div align="center">
-  <img width="18%" src="images/YouTube_Channel_qrcode.png"/>
-  <img width="18%" src="images/TiktokQR.png"/>
-</div>
-
-<hr>
-
 <h2 align="center">⚡ Statistic ⚡</h2>
 <br>
 <div align="center">

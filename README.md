@@ -1,6 +1,11 @@
 <div align="center">
   <p align="center"> <img src=https://komarev.com/ghpvc/?username=z3t444 alt=z3t444 /> </p>
 </div>
+<img
+  width="100%"
+  alt="Rainbow"
+  src="Images/Miscellaneous/Rainbow.gif"
+/>
 
 
 

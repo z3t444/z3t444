@@ -82,7 +82,7 @@
   <img src="https://streak-stats.demolab.com?user=z3t444&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&border=3" height="120" alt="streak graph"  />
 </div>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=z3t444&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=z3t444&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="120" alt="trophy graph"  />
 </div>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z3t444&theme=radical&hide_border=true" height="150" alt=""  />

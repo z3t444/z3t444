@@ -85,7 +85,7 @@
 </div>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z3t444&theme=radical&hide_border=true" height="150" alt=""  />
-  <img src="https://activity-graph.herokuapp.com/graph?username=z3t444l&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)](https://github.com/MrKrishnaAgarwal/readme-components-github" height="150" alt=""  />
+  [![Github Activity graph](https://activity-graph.herokuapp.com/graph?username=YOUR_PROFILE_USERNAMEl&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)](https://github.com/MrKrishnaAgarwal/readme-components-github)
 </div>
 
 ###

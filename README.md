@@ -84,6 +84,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=z3t444&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z3t444)](https://github.com/MrKrishnaAgarwal/readme-components-github)
 
 ###
 

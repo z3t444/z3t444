@@ -46,28 +46,28 @@
 <h2 align="center"> <img title="JSON" height="25" src="https://media3.giphy.com/media/sRW4SCnxfcx1LaFBtt/200w.gif?cid=6c09b952kmthrw6or4tgsuetjij5vl2ljfs0jcsl20f7z2nk&ep=v1_gifs_search&rid=200w.gif&ct=s"> Languages & Frameworks & Tools & Abilities <img title="JSON" height="25" src="https://media3.giphy.com/media/sRW4SCnxfcx1LaFBtt/200w.gif?cid=6c09b952kmthrw6or4tgsuetjij5vl2ljfs0jcsl20f7z2nk&ep=v1_gifs_search&rid=200w.gif&ct=s"> </h2>
 <br>
 <p align="center">
-  <code><img title="Javascript" height="28" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img src="https://skillicons.dev/icons?i=tailwind" height="25" alt="tailwindcss logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=vite" height="25" alt="vite logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=vercel" height="25" alt="vercel logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=vue" height="25" alt="vuejs logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=vscode" height="25" alt="vscode logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=pug" height="25" alt="pug logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=netlify" height="25" alt="netlify logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=figma" height="25" alt="figma logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=svelte" height="25" alt="svelte logo"  /></code>
+ <code><img title="Javascript" height="30" src="images/javascript.svg"></code>
+<code><img title="Problem Solving" height="30" src="images/problemSolving.png"></code>
+  <code><img title="HTML5" height="30" src="images/html5.svg"></code>
+  <code><img title="CSS" height="30" src="images/css.svg"></code>
+  <code><img title="SASS" height="30" src="images/sass.svg"></code>
+  <code><img title="React" height="30" src="images/react-original.svg"></code>
+  <code><img title="Git" height="30" src="images/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="30" src="images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="30" src="images/visualstudio.png"></code>
+  <code><img title="Java" height="30" src="images/java-original.svg"></code>
+  <code><img title="JSON" height="30" src="images/json.svg"></code>
+  <code><img title="GitHub" height="30" src="images/github.svg"></code>
+  <code><img title="npm" height="30" src="images/npm.svg"></code>
+  <code><img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=vue" height="30" alt="vuejs logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=pug" height="30" alt="pug logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=netlify" height="30" alt="netlify logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=svelte" height="30" alt="svelte logo"  /></code>
 </p>
 
 ###

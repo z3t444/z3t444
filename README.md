@@ -78,8 +78,8 @@
 <br>
 <div align="center">
  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=z3t444&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=20232a"/>
-  <img src="https://streak-stats.demolab.com?user=z3t444&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&border=3" height="140" alt="streak graph"  />
-  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=z3t444&layout=compact&langs_count=10&theme=dark&bg_color=20232a"/>
+  <img src="https://streak-stats.demolab.com?user=z3t444&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&border=3" height="40%" alt="streak graph"  />
+  <img width="30%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=z3t444&layout=compact&langs_count=10&theme=dark&bg_color=20232a"/>
 </div>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=z3t444&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="120" alt="trophy graph"  />

@@ -99,6 +99,8 @@
   </a>
 </p>
 
+[![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=z3t444&repo=lynch-header-design)](https://github.com/MrKrishnaAgarwal/readme-components-github)
+
 <hr>
 
 <div align="center">

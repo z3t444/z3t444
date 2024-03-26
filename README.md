@@ -80,9 +80,11 @@
  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=z3t444&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=20232a"/>
   <img src="https://streak-stats.demolab.com?user=z3t444&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&border=3" height="160px" alt="streak graph"  />
   <img width="30%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=z3t444&layout=compact&langs_count=10&theme=dark&bg_color=20232a"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z3t444&theme=radical&hide_border=true" height="150" alt=""  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=z3t444&radius=16&theme=react&area=true&order=5&hide_border=true" height="150" alt="activity-graph graph"  />
 </div>
 
+
+###
 
 ###
 

@@ -88,7 +88,7 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31yco6mkeps3ryd5dm6mrm33tobi&unique={true|1|on|yes})
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yco6mkeps3ryd5dm6mrm33tobi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-[https://spotify-github-profile.vercel.app/api/view.svg?uid=31yco6mkeps3ryd5dm6mrm33tobi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31yco6mkeps3ryd5dm6mrm33tobi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yco6mkeps3ryd5dm6mrm33tobi&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ###
 

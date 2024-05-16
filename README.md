@@ -68,6 +68,15 @@
   <code><img src="https://skillicons.dev/icons?i=netlify" height="30" alt="netlify logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=svelte" height="30" alt="svelte logo"  /></code>
+   <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" height="30" alt="handlebars logo" /></code>
+    <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" /></code>
+    <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30" alt="codeigniter logo" /></code>
+    <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" /></code>
+    <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" /></code>
+    <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="30" alt="adonisjs logo" /></code>
+    <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo" /></code>
+    <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ember/ember-original-wordmark.svg" height="30" alt="ember logo" /></code>
+    <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" /></code>
 </p>
 
 ###

@@ -77,6 +77,10 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo" /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ember/ember-original-wordmark.svg" height="30" alt="ember logo" /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" /></code>
+  <code><img src="https://skillicons.dev/icons?i=astro" height="30" alt="astro logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  /></code>
+
+###
 </p>
 
 ###

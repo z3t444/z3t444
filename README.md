@@ -96,11 +96,11 @@
 </div> -->
 <div align="center">
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z3t444&theme=tokyonight" alt="Profile card" width="80%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z3t444&theme=tokyonight" alt="Statistics of languages ​​in commits" width="39.7%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z3t444&theme=tokyonight" alt="Statistics of languages ​​in repositories" width="39.7%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z3t444&theme=tokyonight" alt="Profile statistics" width="39.7%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=z3t444&theme=tokyonight" alt="Data on commits per day" width="39.7%" height="auto"></a>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3t444&langs_count=20&theme=tokyonight&hide_progress=true&hide_border=true" alt="Top Languages" width="39.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z3t444&theme=tokyonight" alt="Statistics of languages ​​in commits" width="29.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z3t444&theme=tokyonight" alt="Statistics of languages ​​in repositories" width="29.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z3t444&theme=tokyonight" alt="Profile statistics" width="29.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=z3t444&theme=tokyonight" alt="Data on commits per day" width="29.7%" height="auto"></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3t444&langs_count=20&theme=tokyonight&hide_progress=true&hide_border=true" alt="Top Languages" width="29.7%" height="auto"></a>
 </div>
 
 

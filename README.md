@@ -99,7 +99,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=z3t444&radius=16&theme=react&area=true&order=5&hide_border=true" height="170" alt="activity-graph graph"  />
 </div> -->
 <div align="center">
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z3t444&theme=tokyonight" alt="Profile card" width="70%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z3t444&theme=tokyonight" alt="Profile card" width="80%" height="auto"></a>
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z3t444&theme=tokyonight" alt="Statistics of languages ​​in commits" width="25.7%" height="auto"></a>
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z3t444&theme=tokyonight" alt="Statistics of languages ​​in repositories" width="25.7%" height="auto"></a>
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z3t444&theme=tokyonight" alt="Profile statistics" width="25.7%" height="auto"></a>

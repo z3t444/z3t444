@@ -89,10 +89,18 @@
 
 <h2 align="center">⚡ Statistic ⚡</h2>
 <br>
-<div align="center">
+<!-- <div align="center">
  <img width="35%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=z3t444&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=20232a"/>
     <img width="35%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=z3t444&layout=compact&langs_count=10&theme=dark&bg_color=20232a"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=z3t444&radius=16&theme=react&area=true&order=5&hide_border=true" height="170" alt="activity-graph graph"  />
+</div> -->
+<div align="center">
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=z3t444&theme=tokyonight" alt="Profile card" width="100%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=z3t444&theme=tokyonight" alt="Statistics of languages ​​in commits" width="49.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z3t444&theme=tokyonight" alt="Statistics of languages ​​in repositories" width="49.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z3t444&theme=tokyonight" alt="Profile statistics" width="49.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=z3t444&theme=tokyonight" alt="Data on commits per day" width="49.7%" height="auto"></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3t444&langs_count=20&theme=tokyonight&hide_progress=true&hide_border=true" alt="Top Languages" width="49.7%" height="auto"></a>
 </div>
 
 

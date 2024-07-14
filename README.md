@@ -51,7 +51,7 @@
 <br>
 <p align="center">
  <code><img title="Javascript" height="30" src="images/javascript.svg"></code>
-<code><img title="Problem Solving" height="30" src="images/problemSolving.png"></code>
+  <code><img title="Problem Solving" height="30" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="30" src="images/html5.svg"></code>
   <code><img title="CSS" height="30" src="images/css.svg"></code>
   <code><img title="SASS" height="30" src="images/sass.svg"></code>
@@ -83,6 +83,17 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" /></code>
   <code><img src="https://skillicons.dev/icons?i=astro" height="30" alt="astro logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  /></code>
+  <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="30" alt="storybook logo" /></code>
+  <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo" /></code>
+  <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" height="30" alt="devicon logo" /></code>
+  <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="eslint logo" /></code>
+  <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" /></code>
+  <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxtjs logo" /></code>
+  <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" /></code>
+  <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo" /></code>
+  <code> <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo" /></code>
+  <code><img src="https://cdn.simpleicons.org/vuetify/1867C0" height="30" alt="vuetify logo" /></code>
+  <code> <img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="30" alt="yarn logo" /></code>
 
 ###
 </p>

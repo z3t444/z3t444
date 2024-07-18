@@ -115,7 +115,6 @@
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=z3t444&theme=tokyonight" alt="Statistics of languages ​​in repositories" width="25.7%" height="auto"></a>
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=z3t444&theme=tokyonight" alt="Profile statistics" width="25.7%" height="auto"></a>
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=z3t444&theme=tokyonight" alt="Data on commits per day" width="29.7%" height="auto"></a>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3t444&langs_count=30&theme=tokyonight&hide_progress=true&hide_border=true" alt="Top Languages" width="25.7%" height="auto"></a>
 <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=z3t444&hide=HTML&langs_count=20&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 

@@ -28,8 +28,6 @@
   </a>
 </p>
 
-![](https://raw.githubusercontent.com/z3t444/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/z3t444/github-stats-transparent/output/generated/languages.svg)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">

@@ -10,11 +10,6 @@
   <p align="center"> <img src=https://komarev.com/ghpvc/?username=z3t444 alt=z3t444 /> </p>
 </div>
 
-<p align="center">
-  <a href="https://u8views.com/github/z3t444">
-    <img src="https://u8views.com/api/v1/github/profiles/113794999/views/day-week-month-total-count.svg" alt="Zeeta:) profile views">
-  </a>
-</p>
 
 
 <div align="center">

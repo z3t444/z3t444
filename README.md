@@ -8,11 +8,12 @@
 
 <br>
 
-<div align="center">
+<p align="center">
   <a href="https://git.io/gradientbadge">
     <img src="https://mmt9na83ef1a.runkit.sh" alt="Badge">
   </a>
-</div>
+</p>
+
 
 <br>
 
@@ -20,6 +21,7 @@
   <p align="center"> <img src=https://komarev.com/ghpvc/?username=z3t444 alt=z3t444 /> </p>
 </div>
 
+<br>
 
 <p align="center">
   <a href="https://git.io/gradientbadge">

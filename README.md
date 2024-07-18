@@ -11,13 +11,6 @@
 
 
 
-<p align="center">
-  <a href="https://git.io/gradientbadge">
-    <img src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1721319447/jx7x0ael0xvkjbs4mrvt.png" alt="draw">
-  </a>
-</p>
-
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Zeeta+FrontDev..;Nice+to+meet+you!&center=true&size=30">
@@ -140,6 +133,13 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" height="180" alt="snake"/>
 </div>
+
+
+<p align="center">
+  <a href="https://git.io/gradientbadge">
+    <img src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1721319447/jx7x0ael0xvkjbs4mrvt.png" alt="draw">
+  </a>
+</p>
 
 <h4 align="center">
   <a href="https://github.com/z3t444?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>

@@ -12,6 +12,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://git.io/gradientbadge">
+    <img src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1721319447/jx7x0ael0xvkjbs4mrvt.png" alt="draw">
+  </a>
+</p>
+
 
 <div align="center">
   <p align="center"> <img src=https://komarev.com/ghpvc/?username=z3t444 alt=z3t444 /> </p>

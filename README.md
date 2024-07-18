@@ -6,14 +6,6 @@
 
 <br>
 
-<br>
-
-<p align="center">
-  <a href="https://git.io/gradientbadge">
-    <img src="https://mmt9na83ef1a.runkit.sh" alt="Badge">
-  </a>
-</p>
-
 
 
 <div align="center">

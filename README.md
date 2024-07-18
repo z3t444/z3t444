@@ -6,15 +6,11 @@
 
 <br>
 
-<p align="center">
-  <a href="https://git.io/gradientbadge">
-    <img src="https://mmt9na83ef1a.runkit.sh" alt="Badge">
-  </a>
-</p>
+<br>
 
 <p align="center">
   <a href="https://git.io/gradientbadge">
-    <img src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1721319447/jx7x0ael0xvkjbs4mrvt.png" alt="draw">
+    <img src="https://mmt9na83ef1a.runkit.sh" alt="Badge">
   </a>
 </p>
 
@@ -23,6 +19,12 @@
   <p align="center"> <img src=https://komarev.com/ghpvc/?username=z3t444 alt=z3t444 /> </p>
 </div>
 
+
+<p align="center">
+  <a href="https://git.io/gradientbadge">
+    <img src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1721319447/jx7x0ael0xvkjbs4mrvt.png" alt="draw">
+  </a>
+</p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">

@@ -8,6 +8,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://u8views.com/github/z3t444">
+    <img src="https://u8views.com/api/v1/github/profiles/113794999/views/day-week-month-total-count.svg" alt="Zeeta:) profile views">
+  </a>
+</p>
+
 
 <div align="center">
 <img src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="GIF" width=80% hight="auto">

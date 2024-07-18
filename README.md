@@ -1,12 +1,14 @@
-<div align="center">
-  <p align="center"> <img src=https://komarev.com/ghpvc/?username=z3t444 alt=z3t444 /> </p>
-</div>
 
 <p align="center">
   <a href="https://git.io/gradientbadge">
     <img src="https://mmt9na83ef1a.runkit.sh" alt="Badge">
   </a>
 </p>
+
+
+<div align="center">
+  <p align="center"> <img src=https://komarev.com/ghpvc/?username=z3t444 alt=z3t444 /> </p>
+</div>
 
 <p align="center">
   <a href="https://u8views.com/github/z3t444">
